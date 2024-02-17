@@ -1,0 +1,7 @@
+Public link παιχνιδιού:
+
+https://raw.githack.com/NightGr/Escape-Room/main/EscapeRoom.html
+
+Github Repository:
+
+https://github.com/NightGr/Escape-Room
